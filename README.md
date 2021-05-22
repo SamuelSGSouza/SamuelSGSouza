@@ -1,1 +1,1 @@
-Apaixonado por programação focada na linguagem python, possuo conhecimentos aprofundados nas bases da linguagem, produção de sites com Flask e Django , utilização de apis e wbservice, Machine Learning, Data Science e NLP.
+
